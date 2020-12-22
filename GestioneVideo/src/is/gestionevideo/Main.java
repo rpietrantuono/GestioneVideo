@@ -52,6 +52,15 @@ public class Main {
 		v4.addGiornalista(new Giornalista("PIPPO", "PLUTO"));
 
 
+		nome_evento = "Commento Lazio - Napoli";
+
+		data_evento = LocalDate.of(2020, Month.DECEMBER, 20);
+
+		VideoApprofondimento v5 = new VideoApprofondimento(nome_evento, data_evento, Sport.CALCIO);
+
+		v5.addGiornalista(new Giornalista("TIZIO", "CAIO"));
+		v5.addGiornalista(new Giornalista("PIPPO", "PLUTO"));
+
 
 
 		gestionevideo.caricaVideo(v1);
