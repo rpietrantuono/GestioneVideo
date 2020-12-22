@@ -62,7 +62,7 @@ public class Main {
 
 		v5.addGiornalista(new Giornalista("MODIFICALOCALE", "MODIFICAREMOTO"));
 		
-
+		System.out.println("Nuova funzioanlità nel master"); 
 
 		gestionevideo.caricaVideo(v1);
 		gestionevideo.caricaVideo(v2);
