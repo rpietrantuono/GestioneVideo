@@ -21,6 +21,7 @@ public class GestioneVideo {
 		
 		ArrayList<Video> lista_risultati = new ArrayList<Video>();
 		
+		System.out.println("Correzione bug effettuata");
 		
 		for(Video v : lista_video) {
 			
