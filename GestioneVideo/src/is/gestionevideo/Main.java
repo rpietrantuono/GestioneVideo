@@ -59,7 +59,7 @@ public class Main {
 		VideoApprofondimento v5 = new VideoApprofondimento(nome_evento, data_evento, Sport.CALCIO);
 
 		v5.addGiornalista(new Giornalista("TIZIO", "CAIO"));
-		v5.addGiornalista(new Giornalista("PIPPO", "PLUTO"));
+		v5.addGiornalista(new Giornalista("MODIFICALOCALE", "PLUTO"));
 
 
 
