@@ -73,6 +73,9 @@ public class Main {
 
 		System.out.println("Risultati della ricerca:\n");
 
+		System.out.println("Ciao ciao:\n");
+
+		
 		for(Video v : v_ricerca) {
 
 			System.out.println(v+"\n");
