@@ -88,7 +88,7 @@ public class Main {
 		gestionevideo.rimuoviVideo(v3);
 		gestionevideo.rimuoviVideo(v4);
 
-
+		System.out.println("Prima modifica locale-remoto:\n");
 
 		
 	}
